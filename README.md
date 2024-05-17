@@ -1,6 +1,6 @@
 ### Hola, soy José Alberto 👋
 ### Me especializo en proyectos de Data Science y Data Analysis 📊
-### Estos son algunos de los proyectos que he hecho
+### Estos son algunos de los proyectos que he hecho ➡️
 
 <!--
 **bertocs/bertocs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
